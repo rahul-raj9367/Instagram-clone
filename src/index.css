@@ -1,0 +1,562 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue','Avenir','Roboto','Lato','Open Sans','Brush Script','Pacifico','Lobster','Great Vibes','Amatic SC' !important;
+}
+#root{
+  position: relative;
+  height: 10px;
+  width: 10px;
+  background-color: #fff;
+}
+@media only screen and (min-width: 2000px){
+  .Rahull{
+    margin-left: 600px;
+  }
+  .insta-btn3 {
+    margin-top: 820px;
+  }
+  .rah{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 12.9%;
+    height: 100%;
+    border-right: 1px solid #dddddd;
+}
+}
+@media only screen and (max-width: 1200px){
+  .syed{
+    display: none;
+  }
+  .Rahull{
+    margin-left: 0px;
+  }
+  .total-img {
+    margin-left: 300px;
+  }
+  .total-post{
+    margin-left: 370px;
+  }
+}
+@media (min-width: 1300px) and (max-width: 1440px){
+  .insta-btn3 {
+    margin-top: 150px;
+  }
+}
+@media (min-width: 700px) and (max-width: 1030px){
+  .instaHome img{
+    display: none;
+  }
+}
+/* L-Laptop */
+@media only screen and (max-width: 1030px){
+  .insta-btn3 {
+    margin-top: 50px;
+  }
+  .insta-btn2 .btnn2 h4 {
+    display: none;
+  }
+  .insta-btn h4{
+    display: none;
+  }
+  .insta-btn3 .btnn2 h4 {
+    display: none;
+  }
+  .insta-btn {
+    margin-top: 60px;
+  }
+  .rah{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 7%;
+    height: 100%;
+    border-right: 1px solid #dddddd;
+  }
+  .total-img{
+    margin-top: 52px;
+    margin-left: 238px;
+  }
+  .total-post{
+    margin-top: 48px;
+    margin-left: 310px;
+  }
+  .instaHome .insta{
+    margin-top: 34px !important;
+  }
+}
+/* Tablet */
+@media only screen and (max-width: 768px){
+  .total-img{
+    margin-top: 52px;
+    margin-left: 110px;
+  }
+  .total-post{
+    margin-top: 49px;
+    margin-left: 185px;
+  }
+  .rah{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 9%;
+    height: 100%;
+    border-right: 1px solid #dddddd;
+  }
+  .insta-btn {
+    margin-top: 70px;
+    margin-left: 23px;
+  }
+  .insta-btn {
+    margin-left: 23px;
+  }
+  .insta-btn {
+    margin-left: 23px;
+  }
+  .instaHome .insta{
+    margin-top: 30px !important;
+  }
+  .insta-btn:hover{
+    cursor: pointer;
+    background-color: #dadadae3;
+    width: 25px;
+    border-radius: 4px;
+}
+.insta-btn2:hover{
+    cursor: pointer;
+    background-color: #dadadae3;
+    width: 25px;
+    border-radius: 4px;
+}
+.insta-btn3:hover{
+    cursor: pointer;
+    background-color: #dadadae3;
+    width: 25px;
+    border-radius: 4px;
+}
+}
+@media (min-width: 1030px) and (max-width: 2560px){
+  .instaHome .insta{
+    display: none !important;
+  }
+}
+@media (min-width: 0px) and (max-width: 700px){
+  .instaHome .insta{
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 450px){
+  .total-img{
+    max-width: 400px;
+    overflow: hidden;
+    overflow-x: scroll;
+  }
+  .rah{
+    display: flex;
+    /* align-items: end; */
+    border-right: none;
+  }
+  .total-post{
+    margin-left: 50px;
+    margin-right: 0 !important;
+    width: 425px !important;
+  }
+  .total-img{
+    margin-left: 18px;
+  }
+  .total-post{
+    margin-left: 0;
+  }
+  .tot {
+    width: 425px !important;
+    margin-right: 0 !important;
+    overflow: hidden;
+  }
+  .tot .post-img img{
+    width: 425px;
+    height: 400px;
+  }
+  .like-sec{
+    width: 425px;
+  }
+  .com{
+    width: 425px;
+  }
+  .tot2 {
+    width: 425px;
+  }
+  .tot2 .post-img img{
+    width: 425px;
+  }
+  .tot2  .like-sec{
+    width: 425px;
+  }
+  .tot2  .com{
+    width: 425px;
+  }
+  hr{
+    width: 425px;
+  }
+  .instaHome img{
+    margin-top: 13px;
+    margin-left: 10px;
+  }
+  .insta-btn2 #qqqwww{
+    position: absolute;
+    top: 13px;
+    left: 350px;
+  }
+  .insta-btn2 #rrrr{
+    position: absolute;
+    top: 13px;
+    left: 390px;
+  }
+  .insta-btn #home{
+    position: absolute;
+    bottom: 0;
+    left:0px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #search{
+    position: absolute;
+    bottom: 0;
+    left: 80px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 20px;
+  }
+  .insta-btn2 #reels{
+    position: absolute;
+    bottom: 0;
+    left: 160px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 60px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #msg{
+    position: absolute;
+    bottom: 0;
+    left: 260px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 7px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #profile{
+    position: absolute;
+    bottom: 0;
+    left: 340px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #explore{
+    display: none;
+  }
+  .insta-btn3 #more{
+    display: none;
+  }
+  .insta-btn{
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .insta-btn2{
+    margin-left: 0;
+  }
+  .insta-btn3{
+    margin-left: 0;
+  }
+  .syed{
+    display: none;
+  }
+  .likes{
+    max-width: 425px;
+  }
+  .head{
+    width: 425px;
+  }
+  .body .post-img img{
+    width: 425px;
+  }
+  .post {
+    margin-left: 10px;
+  }
+  .tit-more{
+    margin-right: 10px;
+  }
+  .like {
+    margin-left: 10px;
+  }
+  .save{
+    margin-right: 10px;
+  }
+  .likes{
+    margin-left: 10px;
+  }
+  .rahul{
+    margin-left: 10px;
+  }
+  .com{
+    display: none;
+  }
+  hr{
+    display: none;
+  }
+}
+@media only screen and (max-width: 400px){
+  .total-img{
+    max-width: 340px;
+    overflow: hidden;
+    overflow-x: scroll;
+  }
+  .insta-btn2 #qqqwww{
+    position: absolute;
+    top: 13px;
+    left: 290px;
+  }
+  .insta-btn2 #rrrr{
+    position: absolute;
+    top: 13px;
+    left: 340px;
+  }
+  .total-post{
+    width: 375px !important;
+  }
+  .tot {
+    width:  375px !important;
+    margin-right: 0 !important;
+    overflow: hidden;
+  }
+  .tot2 {
+    width:  375px !important;
+    margin-right: 0 !important;
+    overflow: hidden;
+  }
+  .post{
+    margin-left: 15px;
+  }
+  .tit-more{
+    margin-right: 15px;
+  }
+  .tot .post-img img{
+    width: 375px;
+    height: 400px;
+  }
+  .tot2 .post-img img{
+    width: 375px;
+    height: 400px;
+  }
+  .like {
+    margin-left: 15px;
+  }
+  .save{
+    margin-right: 15px;
+  }
+  .likes{
+    margin-left: 15px;
+  }
+  .insta-btn #home{
+    position: absolute;
+    bottom: 0;
+    left:0px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 35px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #search{
+    position: absolute;
+    bottom: 0;
+    left: 70px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .insta-btn2 #reels{
+    position: absolute;
+    bottom: 0;
+    left: 140px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 60px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #msg{
+    position: absolute;
+    bottom: 0;
+    left: 235px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 7px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #profile{
+    position: absolute;
+    bottom: 0;
+    left: 313px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 38px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #explore{
+    display: none;
+  }
+  .insta-btn3 #more{
+    display: none;
+  }
+  .like-sec {
+    width: 375px;
+  }
+  .head {
+    width: 375px;
+  }
+}
+@media only screen and (max-width: 340px){
+  .total-img{
+    max-width: 300px;
+    overflow: hidden;
+    overflow-x: scroll;
+  }
+  .insta-btn2 #qqqwww{
+    position: absolute;
+    top: 13px;
+    left: 250px;
+  }
+  .insta-btn2 #rrrr{
+    position: absolute;
+    top: 13px;
+    left: 290px;
+  }
+  .total-post{
+    width: 320px !important;
+  }
+  .tot {
+    width: 320px !important;
+    margin-right: 0 !important;
+    overflow: hidden;
+  }
+  .tot2 {
+    width: 320px !important;
+    margin-right: 0 !important;
+    overflow: hidden;
+  }
+  .post{
+    margin-left: 15px;
+  }
+  .tit-more{
+    margin-right: 15px;
+  }
+  .tot .post-img img{
+    width: 320px !important;
+    height: 400px;
+  }
+  .tot2 .post-img img{
+    width: 320px !important;
+    height: 400px;
+  }
+  .like {
+    margin-left: 15px;
+  }
+  .save{
+    margin-right: 15px;
+  }
+  .likes{
+    margin-left: 15px;
+  }
+  .insta-btn #home{
+    position: absolute;
+    bottom: 0;
+    left:0px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 25px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #search{
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .insta-btn2 #reels{
+    position: absolute;
+    bottom: 0;
+    left: 110px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 60px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #msg{
+    position: absolute;
+    bottom: 0;
+    left: 200px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-left: 7px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #profile{
+    position: absolute;
+    bottom: 0;
+    left: 270px;
+    border-top: 0.5px solid #d9d2d2;
+    background-color: #fff;
+    padding-right: 38px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .insta-btn2 #explore{
+    display: none;
+  }
+  .insta-btn3 #more{
+    display: none;
+  }
+  .like-sec {
+    width: 320px !important;
+  }
+  .head {
+    width: 320px !important;
+  }
+  #kkkk{
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,89 @@
+*{
+    font-family: 'Helvetica Neue','Avenir','Roboto','Lato','Open Sans','Brush Script','Pacifico','Lobster','Great Vibes','Amatic SC' !important;
+}
+.total-post{
+    margin-left: 453px;
+    margin-top: 53px;
+    width: 465px;
+}
+.post{
+    display: flex;
+    align-items: center;
+}
+.post .tit-name p{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.tot{
+    width: 465px;
+}
+.post .tit-name {
+    display: flex;
+}
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head .tit-name span{
+   margin-left: 5px;
+   color: rgb(155, 154, 154);
+}
+.post-img{
+    margin-top: 8px;
+}
+.post-img img{
+   border-radius: 5px;
+}
+.tit-img img{
+    border-radius: 50%;
+    border: 2px solid #c62d8f;
+}
+.tit-name{
+    display: flex;
+}
+.wer{
+    font-size: 15px !important;
+    margin-top: 1px;
+    font-weight: 300 !important;
+}
+.like-sec {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.like-sec .like span{
+    margin-right: 13px !important;
+}
+.likes p{
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.rahul h4{
+    margin-top: 7px;
+}
+.rahul p{
+    color: rgb(155, 154, 154);
+}
+#com{
+    margin-top: 7px;
+}
+input{
+    margin-top: 11px;
+    outline: none;
+    border: none;
+    color: rgb(155, 154, 154);
+    color: black;
+}
+.com {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.tot2{
+    width: 465px;
+    margin-top: 18px;
+}

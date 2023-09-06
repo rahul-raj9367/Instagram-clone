@@ -1,0 +1,38 @@
+.total-with{
+    margin-left: 69px;
+    margin-bottom: 12px;
+    width: 280px;
+}
+.sug-head img{
+    border-radius: 50%;
+    border: 0.5px solid #d9d2d2;
+}
+.sug-head-tot{
+    display: flex;
+    align-items: center;
+
+}
+.ee{
+    font-size: 14px;
+}
+.sug-name .rr{
+    font-size: 13px;
+    color: #bab6b6;
+}
+.sug-name{
+    margin-left: 13px;
+}
+.sus{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sug-switch p{
+    font-size: 14.5px;
+    color: rgb(0, 200, 255);
+}
+.v{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

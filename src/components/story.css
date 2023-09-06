@@ -1,0 +1,95 @@
+*{
+    font-family: 'Helvetica Neue','Avenir','Roboto','Lato','Open Sans','Brush Script','Pacifico','Lobster','Great Vibes','Amatic SC' !important;
+}
+.total-img{
+    margin-left: 375px;
+    margin-top: 48px;
+}
+.total-img .story1 img{
+   border-radius: 50%;
+    border: 2.4px solid #c62d8f;
+    padding: 1px;
+    object-fit: contain;
+}
+.total-img {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.total-img .story1 p{
+    font-size: 14.3px;
+    width: 90%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis !important;
+} 
+.total-img .story1{
+    width: 72px;
+    margin-right: 8px;
+}
+.total-with{
+    margin-left: 69px;
+    margin-bottom: 12px;
+    width: 280px;
+}
+.sug-head img{
+    border-radius: 50%;
+    border: 0.5px solid #d9d2d2;
+}
+.sug-head-tot{
+    display: flex;
+    align-items: center;
+
+}
+.ee{
+    font-size: 14px;
+}
+.sug-name .rr{
+    font-size: 13px;
+    color: #bab6b6;
+}
+.sug-name{
+    margin-left: 13px;
+}
+.sus{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sug-switch p{
+    font-size: 14.5px;
+    color: rgb(0, 89, 255);
+}
+.v{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Rahull{
+    display: flex;
+}
+.syed{
+    margin-top: 57px;
+}
+.v{
+    margin-top: 18.5px;
+}
+.aa{
+    font-size: 14.5px;
+    color: black;
+}
+.aa p{
+    font-size: 13px;
+}
+.sus1{
+    margin-top: 19px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sus2{
+    margin-top: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
